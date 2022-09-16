@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Exams section contains a sample question set to help students prepare
+  for the exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
